@@ -5,10 +5,9 @@
     Not content with being only semi-involved in the tech world, 
     I took a leap of faith and quit my job to travel and upskill myself.
 
-    Learning to make dynamic websites has taught me 
-    the importance of  having strong fundamentals, 
-    with an emphasis on simple solutions 
+    Learning to make dynamic websites has taught me the importance of strong fundamentals, with an emphasis on simple solutions 
     and an allergy to an over-reliance on frameworks. 
+    
     I'm currently on the lookout for a role in front-end web development, ideally writing/maintaining HTML, CSS, Javascript languages. 
     My ideal role is working for a mid-size company with experienced developers to work alongside and learn from. 
     If you're hiring, let's chat.
