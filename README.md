@@ -1,7 +1,7 @@
 # **Hi, I'm Broc Johnson**
 
     A former product manager who would find any excuse to work with the developers, and wouldn't be satisfied 
-    until I truly understand the problem. Not content with being only semi-involved in the tech world, 
+    until I truly understood the problem. Not content with being only semi-involved in the tech world, 
     I took a leap of faith and quit my job to travel and upskill myself.
 
     Learning to make dynamic websites has taught me the importance of strong fundamentals, with an emphasis 
